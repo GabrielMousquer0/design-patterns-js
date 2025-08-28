@@ -1,1 +1,1 @@
-# design-patterns-js
+# WORK IN PROGRESS
